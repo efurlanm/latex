@@ -7,5 +7,11 @@ Baseado nos arquivos e informações disponíveis em:
 
 Download dos arquivos originais:
 
-- Instruções originais para criar o ambiente LaTeX no LINUX: http://urlib.net/sid.inpe.br/mtc-m19@80/2010/03.24.15.12/ambiente_latex_no_linux.pdf
-- Download do estilo original: http://mtc-m16c.sid.inpe.br/archive.cgi/sid.inpe.br/iris@1905/2005/08.25.14.01
+- http://mtc-m16c.sid.inpe.br/archive.cgi/sid.inpe.br/iris@1905/2005/08.25.14.01
+
+Instalação dos pacotes no Fedora 31 KDE :
+
+    $ sudo dnf install -y texlive texlive-collection-latexextra \
+      texlive-collection-publishers texlive-collection-langportuguese \
+      texlive-collection-fontsrecommended texlive-babel-portuges \
+      texlive-hyphen-portuguese texlive-abntex2 kbibtex hunspell-br texstudio

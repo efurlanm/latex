@@ -1,0 +1,275 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.45.2.1 }
+
+\bibitem[Aguirre 2000]{aguirre/00}
+\abntrefinfo{Aguirre}{AGUIRRE}{2000}
+{AGUIRRE, L.~A. \textbf{Introdução à identificação de sistemas}: técnicas
+  lineares e não-lineares aplicadas a sistemas reais. Belo Horizonte: Editora
+  UFMG, 2000.}
+
+
+\bibitem[Associa{\c{c}}{\~a}o Brasileira de Normas T{\'e}cnicas (ABNT)
+  2002b]{NBR6023:2002b}
+\abntrefinfo{ABNT}{ABNT}{2002b}
+{ASSOCIA{\c{C}}{\~A}O BRASILEIRA DE NORMAS T{\'E}CNICAS (ABNT). \textbf{{NBR}
+  6023}: informa{\c{c}}{\~a}o e documenta{\c{c}}{\~a}o: refer{\^e}ncias:
+  elabora{\c{c}}{\~a}o.
+Rio de Janeiro, ago. 2002b. 24~p.}
+
+
+\bibitem[Bolzan 2004]{bolzan/00}
+\abntrefinfo{Bolzan}{BOLZAN}{2004}
+{BOLZAN, M. J.~A.
+\textbf{Um estudo sobre caracter\'isticas do subdom\'inio inercial da
+  turbul\^encia desenvolvida em escoamento acima e dentro da copa da Floresta
+  Amaz\^onica de terra firme e acima do Pantanal Matogrossense}.
+2002. 164~p. (INPE-10394-TDI/920).
+Tese (Doutorado em Meteorologia) --- Instituto Nacional de Pesquisas Espaciais
+  (INPE), S{\~a}o Jos{\'e} dos Campos, 2004. Dispon{\'\i}vel em:
+  <\url{http://urlib.net/sid.inpe.br/MTC-m13@80/2005/08.05.15.25}>. Acesso em:
+  2006.}
+
+
+\bibitem[Culf et al. 1996]{culf/96}
+\abntrefinfo{Culf et al.}{CULF et al.}{1996}
+{CULF, A.~D.; ESTEVES, J.~L.; {MARQUES FILHO}, A.~O.; ROCHA, H.~R. Radiation,
+  temperature e humidity over forest and pasture in amazonia. In:  GASH, J.
+  H.~C.; NOBRE, C.~A.; ROBERTS, J.~M.; VICTORIA, R.~L. (Ed.). \textbf{Amazonian
+  deforestation and climate}. Chichester, West Sussex: John Wiley \& Sons,
+  1996. v.~898, p. 175--192.
+149 p.}
+
+
+\bibitem[Dias et al. 2005]{silvadias/05}
+\abntrefinfo{Dias et al.}{DIAS et al.}{2005}
+{DIAS, M. A. F.~S.; COHEN, J. C.~P.; GAND\'U, A.~W. Intera{\c c}\~oes entre
+  nuvens, chuvas e a biosfera na amaz\^onia.
+\textbf{ACTA Amaz\^onica}, v.~35, n.~2, p. 215--222, 2005.}
+
+
+\bibitem[Eckmann et al. 1986]{eckrue/86}
+\abntrefinfo{Eckmann et al.}{ECKMANN et al.}{1986}
+{ECKMANN, J.~P.; RUELLE, D.; CILIBERTO, S. Lyapunov exponents from time series.
+\textbf{Physical Review A}, v.~34, n.~6, p. 4971--49791, 1986.}
+
+
+\bibitem[Farge et al. 2001]{farge/01}
+\abntrefinfo{Farge et al.}{FARGE et al.}{2001}
+{FARGE, M.; PELLEGRINO, G.; SCHNEIDER, K. Coherent vortex extraction in 3d
+  turbulent flows using orthogonal wavelets.
+\textbf{Physical Review Letters}, v.~87, n.~5, 2001.
+Article n. 054501.}
+
+
+\bibitem[Fisch et al. 1998]{fisch/98}
+\abntrefinfo{Fisch et al.}{FISCH et al.}{1998}
+{FISCH, G.; MARENGO, J.~A.; NOBRE, C.~A. Uma revis\~ao geral sobre o clima da
+  amaz\^onia.
+\textbf{ACTA Amaz\^onica}, v.~28, n.~2, p. 101--126, 1998.}
+
+
+\bibitem[Fraedrich 1986]{fraedrich/86}
+\abntrefinfo{Fraedrich}{FRAEDRICH}{1986}
+{FRAEDRICH, K. Estimating the dimensions of weather and climatic attractors.
+\textbf{Journal of Atmospherics Science}, v.~43, n.~5, p. 419--432, 1986.}
+
+
+\bibitem[Fraedrich K.~Leslie 1989]{fraedrichandleslie/89}
+\abntrefinfo{Fraedrich K.~Leslie}{FRAEDRICH K.~LESLIE}{1989}
+{FRAEDRICH K.~LESLIE, L.~M. Estimates of cyclone track predictability.
+\textbf{Quarterly Journal of the Royal Meteorological Society}, v.~155, n.~485,
+  p. 79--92, 1989.}
+
+
+\bibitem[Gallego et al. 2001]{gallego/01}
+\abntrefinfo{Gallego et al.}{GALLEGO et al.}{2001}
+{GALLEGO, M.~C.; GARCIA, J.~A.; CANCILLO, M.~L. Characterization of atmospheric
+  turbulence by dynamical systems techniques.
+\textbf{Boundary-Layer Meteorology}, v.~100, n.~3, p. 375--392, 2001.}
+
+
+\bibitem[G\"ober et al. 1992]{goberelnino/92}
+\abntrefinfo{G\"ober et al.}{G\"OBER et al.}{1992}
+{G\"OBER, M.; HERZEL, H.; GRAF, H. Dimension analysis of el ni\"no/southern
+  oscillation time series.
+\textbf{Annales Geophysica}, v.~10, n.~10, p. 729--734, 1992.}
+
+
+\bibitem[Grassberger 1986]{grass/86}
+\abntrefinfo{Grassberger}{GRASSBERGER}{1986}
+{GRASSBERGER, P. Do climatic attractors exist?
+\textbf{Nature}, v.~323, n.~6089, p. 609--612, 1986.}
+
+
+\bibitem[Grassberger e Procaccia 1983]{grassproca/83}
+\abntrefinfo{Grassberger e Procaccia}{GRASSBERGER; PROCACCIA}{1983}
+{GRASSBERGER, P.; PROCACCIA, I. Characterization of strange attractors.
+\textbf{Physical Review Letters}, v.~50, n.~5, p. 346--349, 1983.}
+
+
+\bibitem[Jaramillo e Puente 1993]{jaramillo/93}
+\abntrefinfo{Jaramillo e Puente}{JARAMILLO; PUENTE}{1993}
+{JARAMILLO, G.~P.; PUENTE, C.~E. Strange attractors in atmospheric
+  boundary-layer turbulence.
+\textbf{Boundary-Layer Meteorology}, v.~64, n.~1-2, p. 175--197, 1993.}
+
+
+\bibitem[Katul et al. 1994]{katul/94}
+\abntrefinfo{Katul et al.}{KATUL et al.}{1994}
+{KATUL, G.; ALBERTSON, J.~D.; CHU, C.~R.; PARLANGE, M.~B. Intermittency in
+  atmospheric surface layer turbulence: the orthonormal wavelet representation.
+  In:  FOUFOULA-GEORGIOU, E.; KUMAR, P. (Ed.). \textbf{Wavelets in Geophysics}.
+  London: Academic Press, 1994. p. 81--105.}
+
+
+\bibitem[Large scale biosphere atmosphere experiment in Amazonia (LBA)
+  2005]{iag/05}
+\abntrefinfo{Large scale biosphere atmosphere experiment in Amazonia
+  (LBA)}{LARGE SCALE BIOSPHERE ATMOSPHERE EXPERIMENT IN AMAZONIA (LBA)}{2005}
+{LARGE SCALE BIOSPHERE ATMOSPHERE EXPERIMENT IN AMAZONIA (LBA). 2005.
+Dispon{\'\i}vel em: <\url{http://www.lba.iag.usp.br/}>. Acesso em: 20 maio
+  2005.}
+
+
+\bibitem[Large Scale Biosphere Atmosphere Experiment in Amazonia (LBA)
+  2006]{lba/06}
+\abntrefinfo{Large Scale Biosphere Atmosphere Experiment in Amazonia
+  (LBA)}{LARGE SCALE BIOSPHERE ATMOSPHERE EXPERIMENT IN AMAZONIA (LBA)}{2006}
+{\underline{\ \ \ \ \ \ \ \ }. 2006.
+Dispon{\'\i}vel em: <\url{http://lba.cptec.inpe.br/lba}>. Acesso em: 31 de
+  janeiro 2006.}
+
+
+\bibitem[Lorenz 1963]{lor/63}
+\abntrefinfo{Lorenz}{LORENZ}{1963}
+{LORENZ, E.~N. Deterministic nonperiodic flow.
+\textbf{Journal of Atmospheric Sciences}, v.~20, n.~2, p. 130--141, 1963.}
+
+
+\bibitem[Lorenz 1991]{loratrat/91}
+\abntrefinfo{Lorenz}{LORENZ}{1991}
+{\underline{\ \ \ \ \ \ \ \ }. Dimension of weather and climate attractors.
+\textbf{Letters to Nature}, v.~353, n.~6341, p. 241--244, 1991.}
+
+
+\bibitem[Lu e Fitzjarrald 1994]{lu/94}
+\abntrefinfo{Lu e Fitzjarrald}{LU; FITZJARRALD}{1994}
+{LU, C.~H.; FITZJARRALD, D.~R. Seasonal and diurnal variations of coherent
+  structures over a deciduous forest.
+\textbf{Boundary-Layer Meteorology}, v.~69, n.~1-2, p. 43--69, 1994.}
+
+
+\bibitem[Luizao et al. 2005]{nobre/2005}
+\abntrefinfo{Luizao et al.}{LUIZAO et al.}{2005}
+{LUIZAO, F.~J.; NOBRE, C.~A.; MANZI, A.~O. Projeto lba: Estudando as complexas
+  intera{\c c}\~oes da biosfera com a atmosfera na amaz\^onia.
+\textbf{ACTA Amaz\^onica}, v.~35, n.~1-2, p. 109--110, 2005.}
+
+
+\bibitem[Malik e Singh 1992]{malik/92}
+\abntrefinfo{Malik e Singh}{MALIK; SINGH}{1992}
+{MALIK, S.~K.; SINGH, M. Chaos in kelvin-helmholtz instability in magnetic
+  fluids.
+\textbf{Physics of Fluids}, v.~4, n.~12, p. 2915--2922, 1992.}
+
+
+\bibitem[Mauri 2003]{mauri:2003}
+\abntrefinfo{Mauri}{MAURI}{2003}
+{MAURI, G.~R. \textbf{Resolu{\c{c}}{\~a}o do problema de programa{\c{c}}{\~a}o
+  de tripula{\c{c}}{\~o}es de um sistema de transporte p{\'u}blico via
+  simulated annealing}.
+Ouro Preto, 2003. 98p. Relat{\'orio t{\'e}cnico}. Dispon{\'\i}vel em:
+  <\url{http://www.decom.ufop.br/prof/marcone/Orientacoes/
+  PPTviaSimulatedAnnealing.pdf}>. Acesso em: 28 ago. 2006.}
+
+
+\bibitem[Nicolis e Nicolis 1984]{nicolis/84}
+\abntrefinfo{Nicolis e Nicolis}{NICOLIS; NICOLIS}{1984}
+{NICOLIS, C.; NICOLIS, G. Is there a climatic attractor?
+\textbf{Nature}, v.~311, n.~5986, p. 529--532, 1984.}
+
+
+\bibitem[Oliveira e Krusche 2002]{oliver/02}
+\abntrefinfo{Oliveira e Krusche}{OLIVEIRA; KRUSCHE}{2002}
+{OLIVEIRA, A.~P.; KRUSCHE, N. Characterization of coherent structures in the
+  atmospheric surface layer.
+\textbf{Boundary-Layer Meteorology}, v.~110, n.~2, p. 191--211, 2002.}
+
+
+\bibitem[Ramos et al. 2004]{Ramos/04}
+\abntrefinfo{Ramos et al.}{RAMOS et al.}{2004}
+{RAMOS, F.~M.; BOLZAN, M. J.~A.; Sá, L. D.~A.; ROSA, R.~R. Atmospheric
+  turbulence within and above an amazon forest.
+\textbf{Physica D}, v.~193, p. 278--291, 2004.}
+
+
+\bibitem[Ruelle 1989]{ruelleentrop/89}
+\abntrefinfo{Ruelle}{RUELLE}{1989}
+{RUELLE, D. \textbf{Chaotic evolution and strange attractors}. New York:
+  Cambridge University Press, 1989.}
+
+
+\bibitem[Ruelle 1993]{ruelle/91}
+\abntrefinfo{Ruelle}{RUELLE}{1993}
+{\underline{\ \ \ \ \ \ \ \ }. \textbf{Acaso e caos}. S\~ao Paulo: Editora
+  Unesp, 1993. 224 p.}
+
+
+\bibitem[Ruelle e Takens 1971]{ruelltak/71}
+\abntrefinfo{Ruelle e Takens}{RUELLE; TAKENS}{1971}
+{RUELLE, D.; TAKENS, F. On the nature of turbulence.
+\textbf{Communications in Mathmatical Physics}, v.~20, n.~3, p. 167--192,
+  1971.}
+
+
+\bibitem[Sano e Sawada 1985]{sanosawada/85}
+\abntrefinfo{Sano e Sawada}{SANO; SAWADA}{1985}
+{SANO, M.; SAWADA, Y. Measurement of the lyapunov spectrum from chaotic time
+  series.
+\textbf{Physical Review Letters}, v.~55, n.~10, p. 1082--1085, 1985.}
+
+
+\bibitem[Santos 1999]{edtese/99}
+\abntrefinfo{Santos}{SANTOS}{1999}
+{SANTOS, E.~O.
+\textbf{Contribui{\c c}\~ao ao estudo do fluxo de di\'oxido de carbono dentro
+  da floresta amaz\^onica}.
+74~p.
+Disserta{\c c}\~ao (Mestrado em Engenharia Mec\^anica) --- Universidade Federal
+  do Rio de Janeiro (UFRJ), Rio de Janeiro, 1999.}
+
+
+\bibitem[Sreenivasan 1999]{sreenivasan/99}
+\abntrefinfo{Sreenivasan}{SREENIVASAN}{1999}
+{SREENIVASAN, K.~R. Fluid turbulence.
+\textbf{Reviews os Modern Physics}, v.~71, n.~2, p. 383--395, 1999.}
+
+
+\bibitem[Tiong 1995]{tiong/93}
+\abntrefinfo{Tiong}{TIONG}{1995}
+{TIONG, M. L.~B. \textbf{Estimating the attractor dimension of the equatorial
+  weather system}. 1995.
+Dispon{\'\i}vel em:
+  <\url{http://www.citebase.org/cgi-bin/citations?id=oai:arXiv.org:chao-dyn/95%
+10015}>.}
+
+
+\bibitem[Weber et al. 1995]{weber/95}
+\abntrefinfo{Weber et al.}{WEBER et al.}{1995}
+{WEBER, R.~O.; TALKNER, P.; STEFANICKI, G.; ARVISAIS, L. Search for finite
+  dimensional attractors in atmospheric turbulence.
+\textbf{Boundary-Layer Meteorology}, v.~73, n.~1-2, p. 1--14, 1995.}
+
+
+\bibitem[Xin et al. 2001]{xin/01}
+\abntrefinfo{Xin et al.}{XIN et al.}{2001}
+{XIN, L.; FEI, H.; GANG, L. Characteristics of chaotic attractors in
+  atmospheric boundary-layer turbulence.
+\textbf{Boundary-Layer Meteorology}, v.~99, n.~2, p. 335--345, 2001.}
+
+
+\end{thebibliography}

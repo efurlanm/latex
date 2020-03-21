@@ -1,0 +1,35 @@
+\select@language {portuguese}
+\select@language {english}
+\select@language {portuguese}
+\select@language {english}
+\select@language {portuguese}
+\contentsline {chapter}{\numberline {1}INTRODU\c C\~AO}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}DADOS ANALISADOS}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}A Amaz\^onia}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}O projeto LBA}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}S\IeC {\'\i }tio experimental e dados}{8}{section.2.3}
+\contentsline {chapter}{\numberline {3}AN\'ALISE E RESULTADOS}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Estacionaridade}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}Decomposi\c c\~ao dos Dados}{11}{section.3.2}
+\contentsline {section}{\numberline {3.3}Caracterizando a turbul\^encia acima da copa da floresta Amaz\^onica}{13}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Espectros de pot\^encia}{13}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Intermit\^encia}{14}{subsection.3.3.2}
+\contentsline {chapter}{\numberline {4}CONCLUS\~OES}{17}{chapter.4}
+\contentsline {chapter}{REFER\^ENCIAS BIBLIOGR\'AFICAS}{19}{chapter.5}
+\ttl@change@i {\@ne }{chapter}{0cm}{\vspace {4mm}}{\normalfont \normalsize \bfseries }{}{\normalfont \normalsize \bfseries \titlerule *[0.82pc]{.}\contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\renewcommand {\chaptername }{\appendixname }
+\contentsline {chapter}{\numberline {}AP\^ENDICE A - AUTORIZA\c C\~AO PARA PUBLICA\c C\~AO}{23}{appendix.A}
+\contentsline {section}{\numberline {A.1}Autoriza\c c\~ao para Publica\c c\~ao de Trabalho Acad\^emico - INPE-393}{23}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Instru\c c\~oes do Formul\'ario INPE-393}{24}{subsection.A.1.1}
+\contentsline {section}{\numberline {A.2}Autoriza\c c\~ao para Publica\c c\~ao - INPE-106}{25}{section.A.2}
+\contentsline {subsection}{\numberline {A.2.1}Instru\c c\~oes do Formul\'ario INPE-106}{27}{subsection.A.2.1}
+\contentsline {chapter}{\numberline {}ANEXO A - ABREVIATURA DOS MESES}{29}{anexo.a}
+\ttl@change@i {\@ne }{chapter}{0cm}{\vspace {4mm}}{\normalfont \normalsize \bfseries }{}{\normalfont \normalsize \bfseries \titlerule *[0.82pc]{.}\contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\renewcommand {\chaptername }{\nomeanexo }
+\contentsline {chapter}{\numberline {}ANEXO B - EXEMPLOS DE FIGURAS E TABELAS NO \LaTeX }{31}{anexo.b}
+\contentsline {section}{\numberline {B.1}Figuras}{31}{section.b.1}
+\contentsline {section}{\numberline {B.2}Tabelas}{32}{section.b.2}
+\contentsline {chapter}{\numberline {}ANEXO C - TIPOS DE REFER\^ENCIAS NO \LaTeX }{39}{anexo.c}
+\contentsfinish 
