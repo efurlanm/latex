@@ -1,4 +1,4 @@
-# Meu repositório LaTex
+# Meu repositório LaTeX
 
 Baseado nos arquivos e informações disponíveis em:
 
@@ -9,7 +9,7 @@ Download dos arquivos originais:
 
 - http://mtc-m16c.sid.inpe.br/archive.cgi/sid.inpe.br/iris@1905/2005/08.25.14.01
 
-Instalação dos pacotes no Fedora 31 KDE :
+Instalação do LaTeX e do TexStudio no Fedora 31 KDE :
 
     $ sudo dnf install -y texlive texlive-collection-latexextra \
       texlive-collection-publishers texlive-collection-langportuguese \

@@ -1,18 +1,23 @@
 \relax 
-\catcode`"\active
-\ifx\hyper@anchor\@undefined
-\global \let \oldcontentsline\contentsline
-\gdef \contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
-\global \let \oldnewlabel\newlabel
-\gdef \newlabel#1#2{\newlabelxx{#1}#2}
-\gdef \newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
-\AtEndDocument{\let \contentsline\oldcontentsline
-\let \newlabel\oldnewlabel}
-\else
-\global \let \hyper@last\relax 
-\fi
-
-\citation{abnt-url-package=hyperref}
+\providecommand\hyper@newdestlabel[2]{}
+\catcode `"\active 
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\citation{abnt-url-package=url}
 \citation{abnt-emphasize=bf}
 \citation{abnt-etal-cite=2}
 \citation{abnt-etal-list=0}
@@ -20,23 +25,21 @@
 \citation{abnt-show-options=warn}
 \citation{abnt-verbatim-entry=no}
 \citation{abnt-url-package=url}
-\select@language{portuguese}
-\@writefile{toc}{\select@language{portuguese}}
-\@writefile{lof}{\select@language{portuguese}}
-\@writefile{lot}{\select@language{portuguese}}
-\@input{./docs/epigrafe.aux}
-\@input{./docs/dedicatoria.aux}
-\@input{./docs/agradecimentos.aux}
-\@input{./docs/resumo.aux}
-\@input{./docs/abstract.aux}
-\@input{./docs/abreviaturasesiglas.aux}
-\@input{./docs/simbolos.aux}
-\newlabel{numeroDeP\'aginasDoPretexto}{{0.2}{xxiii}{\relax }{section.0.4}{}}
-\@input{./docs/introducao_corr3.aux}
-\@input{./docs/dados_analisados_corr2.aux}
-\@input{./docs/analise_e_resultados_corr7.aux}
-\@input{./docs/conclusoes3.aux}
-\bibdata{abnt-options,./bib/referencia}
+\babel@aux{portuguese}{}
+\@input{./src/epigrafe.aux}
+\@input{./src/dedicatoria.aux}
+\@input{./src/agradecimentos.aux}
+\@input{./src/resumo.aux}
+\@input{./src/abstract.aux}
+\@input{./src/abreviaturasesiglas.aux}
+\@input{./src/simbolos.aux}
+\newlabel{numeroDeP\'aginasDoPretexto}{{0.2}{xxiii}{}{section.0.4}{}}
+\@input{./src/introducao_corr3.aux}
+\@input{./src/turbulencia_e_caos_st_corr6.aux}
+\@input{./src/dados_analisados_corr2.aux}
+\@input{./src/analise_e_resultados_corr7.aux}
+\@input{./src/conclusoes3.aux}
+\bibdata{abntex2-options,./bib/referencia}
 \bibcite{aguirre/00}{Aguirre 2000}
 \bibciteEXPL{aguirre/00}{Aguirre}
 \bibciteIMPL{aguirre/00}{AGUIRRE}
@@ -77,8 +80,6 @@
 \bibciteEXPL{fraedrichandleslie/89}{Fraedrich K.~Leslie}
 \bibciteIMPL{fraedrichandleslie/89}{FRAEDRICH K.~LESLIE}
 \bibciteYEAR{fraedrichandleslie/89}{1989}
-\@writefile{toc}{\contentsline {chapter}{REFER\^ENCIAS BIBLIOGR\'AFICAS}{19}{chapter.5}}
-\newlabel{referbiblio}{{5}{19}{\refname \relax }{chapter.5}{}}
 \bibcite{gallego/01}{Gallego et al. 2001}
 \bibciteEXPL{gallego/01}{Gallego et al.}
 \bibciteIMPL{gallego/01}{GALLEGO et al.}
@@ -91,6 +92,8 @@
 \bibciteEXPL{grass/86}{Grassberger}
 \bibciteIMPL{grass/86}{GRASSBERGER}
 \bibciteYEAR{grass/86}{1986}
+\@writefile{toc}{\contentsline {chapter}{REFER\^ENCIAS BIBLIOGR\'AFICAS}{19}{chapter.5}\protected@file@percent }
+\newlabel{referbiblio}{{5}{19}{\refname }{chapter.5}{}}
 \bibcite{grassproca/83}{Grassberger e Procaccia 1983}
 \bibciteEXPL{grassproca/83}{Grassberger e Procaccia}
 \bibciteIMPL{grassproca/83}{GRASSBERGER; PROCACCIA}
@@ -186,14 +189,16 @@
 \@writefile{toc}{\ttl@change@i {\@ne }{chapter}{0cm}{\vspace {4mm}}{\normalfont \normalsize \bfseries }{}{\normalfont \normalsize \bfseries \titlerule *[0.82pc]{.}\contentspage }\relax }
 \@writefile{toc}{\ttl@change@v {chapter}{}{}{}\relax }
 \@writefile{toc}{\renewcommand {\chaptername }{\appendixname }}
-\@input{./docs/apendice1.aux}
-\@input{./docs/anexo.aux}
+\@input{./src/apendice1.aux}
+\@input{./src/anexo.aux}
 \@writefile{toc}{\ttl@change@i {\@ne }{chapter}{0cm}{\vspace {4mm}}{\normalfont \normalsize \bfseries }{}{\normalfont \normalsize \bfseries \titlerule *[0.82pc]{.}\contentspage }\relax }
 \@writefile{toc}{\ttl@change@v {chapter}{}{}{}\relax }
 \@writefile{toc}{\renewcommand {\chaptername }{\nomeanexo }}
-\@input{./docs/anexo1.aux}
-\@input{./docs/anexo2.aux}
-\@input{./docs/contracapa.aux}
+\@input{./src/anexo1.aux}
+\@input{./src/anexo2.aux}
+\@input{./src/contracapa.aux}
 \ttl@finishall
 \newlabel{LastPage}{{}{71}{}{page.71}{}}
-\bibstyle{abnt-alf}
+\xdef\lastpage@lastpage{71}
+\xdef\lastpage@lastpageHy{71}
+\bibstyle{abntex2-alf}
