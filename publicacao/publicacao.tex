@@ -60,57 +60,57 @@ english,portuguese %% para os documentos em Português com abstract.tex em Inglês
 \maketitle  %% não alterar, gera páginas obrigatórias (folha de rosto, ficha catalográfica e folha de aprovação), automaticamente
 
 %%% Comente as linhas opcionais abaixo caso não as deseje
-\include{./src/epigrafe} %% Opcional
-\include{./src/dedicatoria} %% Opcional
-\include{./src/agradecimentos} %% Opcional
-\include{./src/resumo} %% obrigatório
-\include{./src/abstract} %% obrigatório
+\include{./docs/epigrafe} %% Opcional
+\include{./docs/dedicatoria} %% Opcional
+\include{./docs/agradecimentos} %% Opcional
+\include{./docs/resumo} %% obrigatório
+\include{./docs/abstract} %% obrigatório
 
 \includeListaFiguras %% obrigatório caso haja mais de 3 figuras, gerado automaticamente
 \includeListaTabelas %% obrigatório caso haja mais de 3 tabelas, gerado automaticamente
 
-\include{./src/abreviaturasesiglas} %% opcional %% altere o arquivo siglaseabreviaturas.tex
+\include{./docs/abreviaturasesiglas} %% opcional %% altere o arquivo siglaseabreviaturas.tex
 
-\include{./src/simbolos} %% opcional %% altere o arquivo simbolos.tex
+\include{./docs/simbolos} %% opcional %% altere o arquivo simbolos.tex
 
 \includeSumario  %% obrigatório, gerado automaticamente
 
 \inicioIntroducao %% não altere este comando
 
-\include{./src/introducao_corr3} %% 1o capítulo, começo do texto
+\include{./docs/introducao_corr3} %% 1o capítulo, começo do texto
 
-\include{./src/turbulencia_e_caos_st_corr6} %% 2o capítulo
+%\include{./docs/turbulencia_e_caos_st_corr6} %% 2o capítulo
 
-%\include{./src/tecnicas_utilizadas_corr3} %% 3o capítulo
+%\include{./docs/tecnicas_utilizadas_corr3} %% 3o capítulo
 
-\include{./src/dados_analisados_corr2} %% 4o capítulo
+\include{./docs/dados_analisados_corr2} %% 4o capítulo
 
-\include{./src/analise_e_resultados_corr7} %% 5o capítulo
+\include{./docs/analise_e_resultados_corr7} %% 5o capítulo
 
-\include{./src/conclusoes3} %% 6o capítulo
+\include{./docs/conclusoes3} %% 6o capítulo
 
 
 %% insira quantos capítulos desejar com o seguinte comando:
 %\include{_pasta_do_arquivo_/_meu_arquivo_} %%sem a extensão
 %% note que deverá haver um arquivo _meu_arquivo_.tex (com extensão) no diretório _pasta_do_arquivo_
 
-%\include{./src/conclusao}
+%\include{./docs/conclusao}
 
 %% Bibliografia %% não alterar %% obrigatório %testebib
 \bibliography{./bib/referencia} %% aponte para seu arquivo de bibliografia no formato bibtex (p.ex: referencia.bib)
 
 
-%\include{./src/glossario} %% insira os termos do glossário no arquivo glossario.tex %% opcional
+%\include{./docs/glossario} %% insira os termos do glossário no arquivo glossario.tex %% opcional
 
 \inicioApendice %% opcional, comente esta linha e a seguintes se não houver apendice(s)
-\include{./src/apendice1} %% insira apendices tal qual capítulos acima
+\include{./docs/apendice1} %% insira apendices tal qual capítulos acima
 
 
 \inicioAnexo
-\include{./src/anexo}
-\include{./src/anexo1}
-\include{./src/anexo2}
+\include{./docs/anexo}
+\include{./docs/anexo1}
+\include{./docs/anexo2}
 
 \inicioIndice
-\include{./src/contracapa}
+\include{./docs/contracapa}
 \end{document}

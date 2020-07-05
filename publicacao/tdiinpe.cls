@@ -391,7 +391,7 @@
 \ifHTML\gdef\@sepbr{no}
 \gdef\@tipocitacao{num}
 \else\fi
-\usepackage[\@tipocitacao,abnt-emphasize=bf,abnt-etal-cite=2,abnt-etal-list=0,abnt-repeated-title-omit=yes,abnt-show-options=warn,abnt-verbatim-entry=\@sepbr,abnt-url-package=url]{abntex2cite}%testebib 
+\usepackage[\@tipocitacao,abnt-emphasize=bf,abnt-etal-cite=2,abnt-etal-list=0,abnt-repeated-title-omit=yes,abnt-show-options=warn,abnt-verbatim-entry=\@sepbr,abnt-url-package=url]{abntcite}%testebib 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % configuracao das margens 
@@ -618,41 +618,41 @@ top=3cm,bottom=3cm]{geometry}	% acrescentado por gjfb em 2011-12-06
 % Creative Commons
 	\ifthenelse{\equal{\@CCBY}{true}}{%
 % CC-BY
-		\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by/3.0/}{\includegraphics[width=2cm]{./logo/CCBY.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by/3.0/deed.pt_BR}{Creative Commons Atribuição 3.0 Não Adaptada}.}	% adicionado por gjfb em 2014-06-08
+		\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by/3.0/}{\includegraphics[width=2cm]{CCBY.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by/3.0/deed.pt_BR}{Creative Commons Atribuição 3.0 Não Adaptada}.}	% adicionado por gjfb em 2014-06-08
 		\newcommand{\license}{This work is licensed under a \href{http://creativecommons.org/licenses/by/3.0/}{Creative Commons Attribution 3.0 Unported} License.}
 	}{
 		\ifthenelse{\equal{\@CCBYSA}{true}}{%
 % CC-BY-SA
-			\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by-sa/3.0/}{\includegraphics[width=2cm]{./logo/CCBYSA.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nc-sa/3.0/deed.pt_BR}{Creative Commons Atribuição-CompartilhaIgual 3.0 Não Adaptada}.}	% adicionado por gjfb em 2014-06-08
+			\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by-sa/3.0/}{\includegraphics[width=2cm]{CCBYSA.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nc-sa/3.0/deed.pt_BR}{Creative Commons Atribuição-CompartilhaIgual 3.0 Não Adaptada}.}	% adicionado por gjfb em 2014-06-08
 			\newcommand{\license}{This work is licensed under a \href{http://creativecommons.org/licenses/by-sa/3.0/}{Creative Commons Attribution-ShareAlike 3.0 Unported} License.}
 		}{
 			\ifthenelse{\equal{\@CCBYND}{true}}{%
 % CC-BY-ND
-				\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by-nd/3.0/}{\includegraphics[width=2cm]{./logo/CCBYND.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR}{Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada}.}	% adicionado por gjfb em 2014-06-08
+				\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by-nd/3.0/}{\includegraphics[width=2cm]{CCBYND.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR}{Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada}.}	% adicionado por gjfb em 2014-06-08
 				\newcommand{\license}{This work is licensed under a \href{http://creativecommons.org/licenses/by-nd/3.0/}{Creative Commons Attribution-NoDerivs 3.0 Unported} License.}
 			}{
 				\ifthenelse{\equal{\@CCBYNC}{true}}{%
 % CC-BY-NC
-%					\newcommand{\licenca}{\raggedright{\href{http://creativecommons.org/licenses/by-nc/3.0/}{\includegraphics[width=2cm]{./logo/CCBYNC.png}}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nc/3.0/deed.pt_BR}{Creative Commons Atribuição-NãoComercial 3.0 Não Adaptada}.}	% comentado por gjfb em 2013-05-29 - todo resto do texto deixa de ser justificado
-					\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by-nc/3.0/}{\includegraphics[width=2cm]{./logo/CCBYNC.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nc/3.0/deed.pt_BR}{Creative Commons Atribuição-NãoComercial 3.0 Não Adaptada}.}	% adicionado por gjfb em 2013-05-29
+%					\newcommand{\licenca}{\raggedright{\href{http://creativecommons.org/licenses/by-nc/3.0/}{\includegraphics[width=2cm]{CCBYNC.png}}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nc/3.0/deed.pt_BR}{Creative Commons Atribuição-NãoComercial 3.0 Não Adaptada}.}	% comentado por gjfb em 2013-05-29 - todo resto do texto deixa de ser justificado
+					\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by-nc/3.0/}{\includegraphics[width=2cm]{CCBYNC.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nc/3.0/deed.pt_BR}{Creative Commons Atribuição-NãoComercial 3.0 Não Adaptada}.}	% adicionado por gjfb em 2013-05-29
 					\newcommand{\license}{This work is licensed under a \href{http://creativecommons.org/licenses/by-nc/3.0/}{Creative Commons Attribution-NonCommercial 3.0 Unported} License.}
 				}{
 					\ifthenelse{\equal{\@CCBYNCSA}{true}}{%
 % CC-BY-NC-SA
 %						\newcommand{\licenca}{\raggedright{\href{http://creativecommons.org/licenses/by-nc-sa/3.0/}{\includegraphics[width=2cm]{CCBYNCSA.png}}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nc-sa/3.0/deed.pt_BR}{Creative Commons Atribuição-NãoComercial-CompartilhaIgual 3.0 Não Adaptada}.}	% comentado por gjfb em 2013-05-29 - todo resto do texto deixa de ser justificado
-						\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by-nc-sa/3.0/}{\includegraphics[width=2cm]{./logo/CCBYNCSA.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nc-sa/3.0/deed.pt_BR}{Creative Commons Atribuição-NãoComercial-CompartilhaIgual 3.0 Não Adaptada}.}	% adicionado por gjfb em 2013-05-29
+						\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by-nc-sa/3.0/}{\includegraphics[width=2cm]{CCBYNCSA.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nc-sa/3.0/deed.pt_BR}{Creative Commons Atribuição-NãoComercial-CompartilhaIgual 3.0 Não Adaptada}.}	% adicionado por gjfb em 2013-05-29
 						\newcommand{\license}{This work is licensed under a \href{http://creativecommons.org/licenses/by-nc-sa/3.0/}{Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported} License.}
 					}{
 						\ifthenelse{\equal{\@CCBYNCND}{true}}{%
 % CC-BY-NC-ND
-							\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by-nc-nd/3.0/}{\includegraphics[width=2cm]{./logo/CCBYNCND.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nc-nd/3.0/deed.pt_BR}{Creative Commons Atribuição-NãoComercial-SemDerivações 3.0 Não Adaptada}.}	% adicionado por gjfb em 2014-06-08
+							\newcommand{\licenca}{\href{http://creativecommons.org/licenses/by-nc-nd/3.0/}{\includegraphics[width=2cm]{CCBYNCND.png}}\par Esta obra foi licenciada sob uma Licença \href{http://creativecommons.org/licenses/by-nc-nd/3.0/deed.pt_BR}{Creative Commons Atribuição-NãoComercial-SemDerivações 3.0 Não Adaptada}.}	% adicionado por gjfb em 2014-06-08
 							\newcommand{\license}{This work is licensed under a \href{http://creativecommons.org/licenses/by-nc-nd/3.0/}{Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported} License.}
 		
 						}{
 							\ifthenelse{\equal{\@GPLv3}{true}}{%
 % GPLv3
 % GPLv3.png deve ser uma cópia de: https://gnu.org/graphics/gplv3-88x31.png
-								\newcommand{\licenca}{\href{https://gnu.org/licenses/gpl-3.0.en.html}{\includegraphics[width=2cm]{./logo/GPLv3.pdf}}\par Esta obra foi licenciada sob uma Licença \href{https://gnu.org/licenses/gpl-3.0.en.html}{GNU General Public License - Versão 3}.}	% adicionado por gjfb em 2015-06-10
+								\newcommand{\licenca}{\href{https://gnu.org/licenses/gpl-3.0.en.html}{\includegraphics[width=2cm]{GPLv3.pdf}}\par Esta obra foi licenciada sob uma Licença \href{https://gnu.org/licenses/gpl-3.0.en.html}{GNU General Public License - Versão 3}.}	% adicionado por gjfb em 2015-06-10
 								\newcommand{\license}{This work is licensed under a \href{https://gnu.org/licenses/gpl-3.0.en.html}{GNU General Public License - Version 3}.}
 		
 							}{
@@ -1146,9 +1146,9 @@ pdfauthor = {\@author},
  
  \ifthenelse{\equal{\@logoinpe}{true}}{	% acrescentado por gjfb em 2010-06-21
 % 	{\raggedright{\includegraphics[width=12cm]{logoinpe}}\par}
- 	{\raggedright{\includegraphics[width=13.4cm,trim=0 0 0 0,clip]{./logo/logoinpe.pdf}}\par}
+ 	{\raggedright{\includegraphics[width=13.4cm,trim=0 0 0 0,clip]{logoinpe.pdf}}\par}
  }{
- 	{\raggedright{\includegraphics[width=14cm]{./logo/logoverno.pdf}}\par}
+ 	{\raggedright{\includegraphics[width=14cm]{logoverno.pdf}}\par}
  }
 
  \ifthenelse{\equal{\@printserieinpe}{true}}
@@ -1187,9 +1187,9 @@ pdfauthor = {\@author},
 
  \ifthenelse{\equal{\@logoinpe}{true}}{	% acrescentado por gjfb em 2010-06-21
 % 	{\raggedright{\includegraphics[width=12cm]{logoinpe}}\par}
- 	{\raggedright{\includegraphics[width=13.4cm,trim=0 0 0 0,clip]{./logo/logoinpe.pdf}}\par}
+ 	{\raggedright{\includegraphics[width=13.4cm,trim=0 0 0 0,clip]{logoinpe.pdf}}\par}
  }{
- 	{\raggedright{\includegraphics[width=14cm]{./logo/logoverno.pdf}}\par}
+ 	{\raggedright{\includegraphics[width=14cm]{logoverno.pdf}}\par}
  }
 
 \ifthenelse{\equal{\@printserieinpe}{true}}

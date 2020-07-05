@@ -1,87 +1,75 @@
-This is BibTeX, Version 0.99d (TeX Live 2019)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: publicacao.aux
-A level-1 auxiliary file: ./src/epigrafe.aux
-A level-1 auxiliary file: ./src/dedicatoria.aux
-A level-1 auxiliary file: ./src/agradecimentos.aux
-A level-1 auxiliary file: ./src/resumo.aux
-A level-1 auxiliary file: ./src/abstract.aux
-A level-1 auxiliary file: ./src/abreviaturasesiglas.aux
-A level-1 auxiliary file: ./src/simbolos.aux
-A level-1 auxiliary file: ./src/introducao_corr3.aux
-A level-1 auxiliary file: ./src/turbulencia_e_caos_st_corr6.aux
-A level-1 auxiliary file: ./src/dados_analisados_corr2.aux
-A level-1 auxiliary file: ./src/analise_e_resultados_corr7.aux
-A level-1 auxiliary file: ./src/conclusoes3.aux
-A level-1 auxiliary file: ./src/apendice1.aux
-A level-1 auxiliary file: ./src/anexo.aux
-A level-1 auxiliary file: ./src/anexo1.aux
-A level-1 auxiliary file: ./src/anexo2.aux
-A level-1 auxiliary file: ./src/contracapa.aux
-The style file: abntex2-alf.bst
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: /mnt/dados1/URLib16c/col/sid.inpe.br/iris@1905/2005/08.25.14.01/doc/publicacao.aux
+A level-1 auxiliary file: ./docs/epigrafe.aux
+A level-1 auxiliary file: ./docs/dedicatoria.aux
+A level-1 auxiliary file: ./docs/agradecimentos.aux
+A level-1 auxiliary file: ./docs/resumo.aux
+A level-1 auxiliary file: ./docs/abstract.aux
+A level-1 auxiliary file: ./docs/abreviaturasesiglas.aux
+A level-1 auxiliary file: ./docs/simbolos.aux
+A level-1 auxiliary file: ./docs/introducao_corr3.aux
+A level-1 auxiliary file: ./docs/dados_analisados_corr2.aux
+A level-1 auxiliary file: ./docs/analise_e_resultados_corr7.aux
+A level-1 auxiliary file: ./docs/conclusoes3.aux
+A level-1 auxiliary file: ./docs/apendice1.aux
+A level-1 auxiliary file: ./docs/anexo.aux
+A level-1 auxiliary file: ./docs/anexo1.aux
+A level-1 auxiliary file: ./docs/anexo2.aux
+A level-1 auxiliary file: ./docs/contracapa.aux
+The style file: abnt-alf.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Database file #1: abntex2-options.bib
+Database file #1: abnt-options.bib
 Database file #2: ./bib/referencia.bib
 Warning--I didn't find a database entry for "wolf/85"
 Warning--I didn't find a database entry for "sousa:2004"
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=20001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Warning--opÃ§Ã£o abnt-show-options passou para warn
-Warning--opÃ§Ã£o abnt-verbatim-entry passou para no
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--opção abnt-show-options passou para warn
+Warning--opção abnt-verbatim-entry passou para no
+Warning--opção abnt-url-package passou para url
 +---------------------------------------------------------+
-| Estilo bibliogrÃ¡fico abntex2-alf.bst versÃ£o v-1.9.7           |
-| Em caso de dÃºvidas ou problemas com este estilo procure |
-| http://www.abntex.net.br/                               |
+| Estilo bibliográfico abnt-alf.bst versão 1.45.2.1           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
 +---------------------------------------------------------+
-You've used 43 entries,
-            6714 wiz_defined-function locations,
-            1487 strings with 15757 characters,
-and the built_in function-call counts, 37637 in all, are:
-= -- 3311
+You've used 44 entries,
+            6478 wiz_defined-function locations,
+            1448 strings with 15701 characters,
+and the built_in function-call counts, 32753 in all, are:
+= -- 2514
 > -- 1035
-< -- 370
-+ -- 700
+< -- 101
++ -- 433
 - -- 306
-* -- 2589
-:= -- 4750
+* -- 2334
+:= -- 4217
 add.period$ -- 129
-call.type$ -- 44
-change.case$ -- 397
+call.type$ -- 45
+change.case$ -- 400
 chr.to.int$ -- 124
 cite$ -- 36
-duplicate$ -- 2587
-empty$ -- 2514
+duplicate$ -- 1784
+empty$ -- 2553
 format.name$ -- 1507
-if$ -- 8721
-int.to.chr$ -- 6
+if$ -- 7968
+int.to.chr$ -- 7
 int.to.str$ -- 3
-missing$ -- 721
-newline$ -- 188
+missing$ -- 728
+newline$ -- 225
 num.names$ -- 167
-pop$ -- 858
+pop$ -- 863
 preamble$ -- 1
-purify$ -- 161
+purify$ -- 164
 quote$ -- 0
-skip$ -- 2639
+skip$ -- 1891
 stack$ -- 1
-substring$ -- 1699
-swap$ -- 1116
-text.length$ -- 78
+substring$ -- 1426
+swap$ -- 844
+text.length$ -- 73
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 10
-warning$ -- 2
-while$ -- 262
+warning$ -- 3
+while$ -- 256
 width$ -- 0
 write$ -- 605
-(There were 4 warnings)
+(There were 5 warnings)
