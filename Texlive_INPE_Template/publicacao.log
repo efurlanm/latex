@@ -1,0 +1,1970 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.12.10)  14 MAY 2019 15:20
+entering extended mode
+ %&-line parsing enabled.
+**/mnt/dados1/URLib16c/col/sid.inpe.br/iris@1905/2005/08.25.14.01/doc/publicaca
+o.tex
+
+(/mnt/dados1/URLib16c/col/sid.inpe.br/iris@1905/2005/08.25.14.01/doc/publicacao
+.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(./tdiinpe.cls
+Document Class: tdiinpe 2019/04/02 v1.36
+(/usr/share/texmf/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2006/02/20 v1.4 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+===================tex4ht-false
+(/usr/share/texmf/tex/latex/base/report.cls
+Document Class: report 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size12.clo
+File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./titlesec.sty
+Package: titlesec 2007/08/12 v2.8 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen103
+\ttl@minus=\dimen104
+\ttl@toksa=\toks14
+\titlewidth=\dimen105
+\titlewidthlast=\dimen106
+\titlewidthfirst=\dimen107
+) (./titletoc.sty
+Package: titletoc 2007/08/12 v1.6 TOC entries
+\ttl@leftsep=\dimen108
+) (./textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+) (/usr/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf/tex/latex/tools/calc.sty
+Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen109
+\calc@Bdimen=\dimen110
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count90
+\calc@Cskip=\skip47
+)
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texmf/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2006/05/05 v1.1b Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/share/texmf/tex/latex/base/latin1.def
+File: latin1.def 2006/05/05 v1.1b Input encoding file
+))
+(/usr/share/texmf/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks18
+\float@box=\box27
+\@float@everytoks=\toks19
+\@floatcapt=\box28
+)
+(/usr/share/texmf/tex/generic/babel/babel.sty
+Package: babel 2005/11/23 v3.8h The Babel package
+
+(/usr/share/texmf/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texmf/tex/generic/babel/babel.def
+File: babel.def 2005/11/23 v3.8h Babel common definitions
+\babel@savecnt=\count93
+\U@D=\dimen113
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/share/texmf/tex/generic/babel/portuges.ldf
+Language: portuges 2005/03/31 v1.2p Portuguese support from the babel system
+Package babel Info: Making " an active character on input line 145.
+)) (./hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language48
+LaTeX Info: Redefining \_ on input line 43.
+)
+(/usr/share/texmf/tex/latex/tools/array.sty
+Package: array 2005/08/23 v2.4b Tabular extension package (FMi)
+\col@sep=\dimen114
+\extrarowheight=\dimen115
+\NC@list=\toks20
+\extratabsurround=\skip48
+\backup@length=\skip49
+) (./setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (./bigdelim.sty) (./multirow.sty
+\bigstrutjot=\dimen116
+) (./supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count94
+\ST@wd=\dimen117
+\ST@rightskip=\skip50
+\ST@leftskip=\skip51
+\ST@parfillskip=\skip52
+\ST@pageleft=\dimen118
+\ST@headht=\dimen119
+\ST@tailht=\dimen120
+\ST@pagesofar=\dimen121
+\ST@pboxht=\dimen122
+\ST@lineht=\dimen123
+\ST@stretchht=\dimen124
+\ST@prevht=\dimen125
+\ST@toadd=\dimen126
+\ST@dimen=\dimen127
+\ST@pbox=\box29
+)
+(/usr/share/texmf/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+\TX@col@width=\dimen128
+\TX@old@table=\dimen129
+\TX@old@col=\dimen130
+\TX@target=\dimen131
+\TX@delta=\dimen132
+\TX@cols=\count95
+\TX@ftn=\toks21
+)
+(/usr/share/texmf/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count96
+\LTcapwidth=\dimen133
+\LT@head=\box30
+\LT@firsthead=\box31
+\LT@foot=\box32
+\LT@lastfoot=\box33
+\LT@cols=\count97
+\LT@rows=\count98
+\c@LT@tables=\count99
+\c@LT@chunks=\count100
+\LT@p@ftn=\toks22
+) (./lastpage.sty
+Package: lastpage 2011/02/01 v1.2g Refers to last page's name (HMM; JPG)
+)
+(/usr/share/texmf/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/share/texmf/tex/generic/dvips/rotate.sty
+\@rotdimen=\dimen134
+\@rotbox=\box34
+) (./caption2.sty
+Package: caption2 2008/07/01 v2.2c Customising captions (AS)
+
+
+Package caption2 Warning: ****************************************************
+(caption2)                THIS PACKAGE IS OBSOLETE:
+(caption2)                This package attempts to provide an `caption2'
+(caption2)                package v2.0/2.1 author environment so that OLD
+(caption2)                documents can be successfully processed. It should
+(caption2)                NOT be used for NEW documents! New documents should
+(caption2)                use the regular `caption' package v3.x instead.
+(caption2)                ****************************************************
+
+(./caption3.sty
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen135
+\captionmargin@=\dimen136
+\captionwidth=\dimen137
+\caption@indent=\dimen138
+\caption@parindent=\dimen139
+\caption@hangindent=\dimen140
+)
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
+e 209.
+\captionlinewidth=\dimen141
+\realcaptionwidth=\dimen142
+Package caption2 Info: float package v1.2 (or newer) detected on input line 318
+.
+Package caption2 Info: longtable package v3.15 (or newer) detected on input lin
+e 340.
+) (/usr/share/texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks23
+\ex@=\dimen143
+))
+(/usr/share/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen144
+)
+(/usr/share/texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count101
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count102
+\leftroot@=\count103
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count104
+\DOTSCASE@=\count105
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box35
+\strutbox@=\box36
+\big@size=\dimen145
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count106
+\c@MaxMatrixCols=\count107
+\dotsspace@=\muskip10
+\c@parentequation=\count108
+\dspbrk@lvl=\count109
+\tag@help=\toks24
+\row@=\count110
+\column@=\count111
+\maxfields@=\count112
+\andhelp@=\toks25
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks26
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/usr/share/texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(/usr/share/texmf/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks28
+\thm@bodyfont=\toks29
+\thm@headfont=\toks30
+\thm@notefont=\toks31
+\thm@headpunct=\toks32
+\thm@preskip=\skip60
+\thm@postskip=\skip61
+\thm@headsep=\skip62
+\dth@everypar=\toks33
+) (./subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip63
+\subfigcapskip=\skip64
+\subfigcaptopadj=\dimen152
+\subfigbottomskip=\skip65
+\subfigcapmargin=\dimen153
+\subfiglabelskip=\skip66
+\c@subfigure=\count113
+\c@lofdepth=\count114
+\c@subtable=\count115
+\c@lotdepth=\count116
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texmf/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip67
+\subfig@bottom=\skip68
+) (./tocloft.sty
+Package: tocloft 2010/10/13 v2.3e parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 43.
+\cftparskip=\skip69
+\cftbeforetoctitleskip=\skip70
+\cftaftertoctitleskip=\skip71
+\cftbeforepartskip=\skip72
+\cftpartnumwidth=\skip73
+\cftpartindent=\skip74
+\cftbeforechapskip=\skip75
+\cftchapindent=\skip76
+\cftchapnumwidth=\skip77
+\cftbeforesecskip=\skip78
+\cftsecindent=\skip79
+\cftsecnumwidth=\skip80
+\cftbeforesubsecskip=\skip81
+\cftsubsecindent=\skip82
+\cftsubsecnumwidth=\skip83
+\cftbeforesubsubsecskip=\skip84
+\cftsubsubsecindent=\skip85
+\cftsubsubsecnumwidth=\skip86
+\cftbeforeparaskip=\skip87
+\cftparaindent=\skip88
+\cftparanumwidth=\skip89
+\cftbeforesubparaskip=\skip90
+\cftsubparaindent=\skip91
+\cftsubparanumwidth=\skip92
+\cftbeforeloftitleskip=\skip93
+\cftafterloftitleskip=\skip94
+\cftbeforefigskip=\skip95
+\cftfigindent=\skip96
+\cftfignumwidth=\skip97
+\cftbeforelottitleskip=\skip98
+\cftafterlottitleskip=\skip99
+\cftbeforetabskip=\skip100
+\cfttabindent=\skip101
+\cfttabnumwidth=\skip102
+\cftbeforesubfigskip=\skip103
+\cftsubfigindent=\skip104
+\cftsubfignumwidth=\skip105
+\cftbeforesubtabskip=\skip106
+\cftsubtabindent=\skip107
+\cftsubtabnumwidth=\skip108
+)
+(/usr/share/texmf/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+) (./eso-pic.sty
+Package: eso-pic 2006/07/14 v1.1d eso-pic (RN)
+ (./everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(./calligra.sty
+Package: calligra 1996/07/18 v1.8 LaTeX package calligra
+) (/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
+\@linkdim=\dimen154
+\Hy@linkcounter=\count117
+\Hy@pagecounter=\count118
+
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (
+HO)
+)
+Package hyperref Info: Option `debug' set `true' on input line 2238.
+Package hyperref Info: Option `breaklinks' set `true' on input line 2238.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 2238.
+Package hyperref Info: Option `colorlinks' set `true' on input line 2238.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 2238
+.
+Package hyperref Info: Option `hyperindex' set `true' on input line 2238.
+Package hyperref Info: Option `verbose' set `true' on input line 2238.
+Package hyperref Info: Hyper figures OFF on input line 2288.
+Package hyperref Info: Link nesting OFF on input line 2293.
+Package hyperref Info: Hyper index ON on input line 2296.
+Package hyperref Info: Plain pages OFF on input line 2303.
+Package hyperref Info: Backreferencing ON on input line 2306.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2444.
+(/usr/share/texmf/tex/latex/hyperref/backref.sty
+Package: backref 2006/10/06 v1.27 Bibliographical back referencing
+)
+(/usr/share/texmf/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 2599.
+\Fld@menulength=\count119
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+\Choice@toks=\toks34
+\Field@toks=\toks35
+Package hyperref Info: Hyper figures OFF on input line 3102.
+Package hyperref Info: Link nesting OFF on input line 3107.
+Package hyperref Info: Hyper index ON on input line 3110.
+Package hyperref Info: backreferencing ON on input line 3115.
+Package hyperref Info: Link coloring ON on input line 3120.
+\Hy@abspage=\count120
+\c@Item=\count121
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
+\Fld@listcount=\count122
+)
+(/usr/share/texmf/tex/latex/ae/ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(/usr/share/texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+(/usr/share/texmf/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2007/01/14 v1.3 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 13.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 14.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 15.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 16.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 17.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 18.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 19.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 22.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 25.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 29.
+)
+-------------->Opcao: CCBYNC
+-------------->Opcao: LogoINPE
+(./abntcite.sty (./abntex-abrev.sty (./nbr10522-1988.def)
+(./abntex-abrev-pt_BR.def)) (./nbr10520-2002.def)
+\minimumbiblabelwidth=\skip109
+\ABCIauxlen=\skip110
+\c@ABCIaux=\count123
+\c@ABCImax=\count124
+
+(/usr/share/texmf/tex/latex/ltxmisc/relsize.sty
+Package: relsize 2003/07/04 ver 3.1
+)
+\biblabelsep=\skip111
+LaTeX Info: Redefining \newblock on input line 569.
+LaTeX Info: Redefining \cite on input line 596.
+\ABCItoken=\toks36
+)
+(/usr/share/texmf/tex/latex/geometry/geometry.sty
+Package: geometry 2002/07/08 v3.2 Page Geometry
+\Gm@cnth=\count125
+\Gm@cntv=\count126
+\c@Gm@tempcnt=\count127
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@dimlist=\toks37
+)
+\linha=\skip112
+\baselsdefault=\skip113
+\parsdefault=\skip114
+\baselsinpe=\skip115
+\parsinpe=\skip116
+\seistoques=\skip117
+\lrotulo=\skip118
+\sepitem=\skip119
+\tempbox=\skip120
+\tempboxA=\skip121
+\tempboxB=\skip122
+\tempboxC=\skip123
+\tempboxD=\skip124
+\tempboxCalc=\skip125
+\legenda@width=\skip126
+)
+(/usr/share/texmf/tex/latex/rotating/rotating.sty
+Package: rotating 1997/09/26, v2.13 Rotation package
+\c@r@tfl@t=\count128
+\rot@float@box=\box37
+) (./dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(/usr/share/texmf/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment')
+(./configuracao.tex
+\mylenfig=\skip127
+)
+\@indexfile=\write4
+\openout4 = `publicacao.idx'.
+
+
+Writing index file publicacao.idx
+(./publicacao.aux (./docs/epigrafe.aux) (./docs/dedicatoria.aux)
+(./docs/agradecimentos.aux) (./docs/resumo.aux) (./docs/abstract.aux)
+(./docs/abreviaturasesiglas.aux) (./docs/simbolos.aux)
+(./docs/introducao_corr3.aux) (./docs/dados_analisados_corr2.aux)
+(./docs/analise_e_resultados_corr7.aux) (./docs/conclusoes3.aux)
+(./docs/apendice1.aux) (./docs/anexo.aux) (./docs/anexo1.aux)
+(./docs/anexo2.aux) (./docs/contracapa.aux))
+\openout1 = `publicacao.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 51.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2007/01/14 v1.3 Font defs for Latin Modern
+)
+Package lastpage Info: Please have a look at the pagesLTS package at
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             macros/latex/contrib/pagesLTS/ 
+(lastpage)             or
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             install/macros/latex/contrib/pagesLTS.tds.zip
+(lastpage)             ! on input line 51.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ ABD: EveryShipout initializing macros
+Package hyperref Info: Link coloring ON on input line 51.
+
+(/usr/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
+
+(/usr/share/texmf/tex/latex/oberdiek/refcount.sty
+Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
+)
+\c@section@level=\count129
+)
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+ (./publicacao.out)
+(./publicacao.out)
+\@outlinefile=\write5
+\openout5 = `publicacao.out'.
+
+
+pdftex: define anchor at line 51: Doc-Start
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 85.35826pt, 426.79135pt, 85.35826pt
+v-parts: 85.35826pt, 674.33032pt, 85.35826pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  426.79135pt
+\textheight 674.33032pt
+\oddsidemargin  13.08827pt
+\evensidemargin 13.08827pt
+\topmargin  -23.91173pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 85.0pt
+\marginparsep   10.0pt
+\columnsep  10.0pt
+\skip\footins  10.8pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\\' on input line 60.
+
+\metade@largura=\skip128
+pdftex: define anchor at line 60: CAPA.0
+<logoinpe.pdf, id=159, 1129.21875pt x 189.70876pt>
+File: logoinpe.pdf Graphic file (type pdf)
+ <use logoinpe.pdf>
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 60.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2007/01/14 v1.3 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 60.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2007/01/14 v1.3 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 60.
+
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2007/01/14 v1.3 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 60.
+
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2007/01/14 v1.3 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 60.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 60.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 60.
+LaTeX Font Info:    Try loading font information for U+msa on input line 60.
+
+(/usr/share/texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 60.
+
+(/usr/share/texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+pdftex: define anchor at line 60: page.i
+[1
+
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logoinpe.pdf>]
+pdftex: define anchor at line 60: VERSO.0
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 60.
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2007/01/14 v1.3 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+
+ []
+
+pdftex: define anchor at line 60: page.ii
+[2]
+pdftex: define anchor at line 60: FOLHA DE ROSTO.0
+File: logoinpe.pdf Graphic file (type pdf)
+<use logoinpe.pdf>
+pdftex: define anchor at line 60: page.i
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.60 \maketitle
+                 %% não alterar, gera páginas obrigatórias (folha de rosto, ...
+[1]
+\cutter@width=\skip129
+\oitava@coluna=\skip130
+\decimaterceira@coluna=\skip131
+\oitava@colunaminuscutter=\skip132
+\widthminusoitava@coluna=\skip133
+\widthminusdecimaterceira@coluna=\skip134
+\card@width=\skip135
+\insidecard@width=\skip136
+\sexta@coluna=\skip137
+\quarta@coluna=\skip138
+
+pdftex: define anchor at line 60: nomefichac.0
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 60.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 60.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 60.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+
+ []
+
+<CCBYNC.png, id=190, 88.33pt x 31.11626pt>
+File: CCBYNC.png Graphic file (type png)
+ <use CCBYNC.png>
+pdftex: define anchor at line 60: page.ii
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.60 \maketitle
+                 %% não alterar, gera páginas obrigatórias (folha de rosto, ...
+[2 <./CCBYNC.png>]
+pdftex: define anchor at line 60: aprovacao.0
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]\T1/lmr/bx/n/12 ATENÇÃO! A FO-LHA DE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\T1/lmr/bx/n/12 APRO-VA-ÇÃO SERÁ IN-
+ []
+
+
+Overfull \hbox (14.43379pt too wide) in paragraph at lines 60--60
+ [] 
+ []
+
+pdftex: define anchor at line 63: page.iii
+[3
+
+
+]
+\openout2 = `./docs/epigrafe.aux'.
+
+ (./docs/epigrafe.tex
+pdftex: define anchor at line 4: page.iv
+[4
+
+
+
+]
+pdftex: define anchor at line 4: nomeepigrafe.0
+pdftex: define anchor at line 6: estilo:epigrafe
+)
+pdftex: define anchor at line 63: page.v
+[5]
+\openout2 = `./docs/dedicatoria.aux'.
+
+ (./docs/dedicatoria.tex
+pdftex: define anchor at line 4: page.vi
+[6
+
+
+
+
+]
+pdftex: define anchor at line 4: nomededicatoria.0
+pdftex: define anchor at line 6: estilo:dedicatoria
+)
+pdftex: define anchor at line 64: page.vii
+[7]
+\openout2 = `./docs/agradecimentos.aux'.
+
+ (./docs/agradecimentos.tex
+pdftex: define anchor at line 4: page.viii
+[8
+
+
+
+
+]
+pdftex: define anchor at line 4: nomethank.0
+pdftex: define anchor at line 6: estilo:agradecimentos
+)
+pdftex: define anchor at line 65: page.ix
+[9]
+\openout2 = `./docs/resumo.aux'.
+
+ (./docs/resumo.tex
+pdftex: define anchor at line 4: page.x
+[10
+
+
+
+
+]
+pdftex: define anchor at line 4: nomeresumo.0
+pdftex: define anchor at line 11: estilo:resumo
+)
+pdftex: define anchor at line 66: page.xi
+[11]
+\openout2 = `./docs/abstract.aux'.
+
+ (./docs/abstract.tex
+pdftex: define anchor at line 5: page.xii
+[12
+
+
+
+
+]
+pdftex: define anchor at line 5: nomeabstract.0
+pdftex: define anchor at line 15: estilo:abstract
+)
+pdftex: define anchor at line 67: page.xiii
+[13]
+pdftex: define anchor at line 69: section.0.1
+pdftex: define anchor at line 69: page.xiv
+[14
+
+
+
+]
+pdftex: define anchor at line 69: listfigurename.0
+(./publicacao.lof)
+\tf@lof=\write6
+\openout6 = `publicacao.lof'.
+
+
+pdftex: define anchor at line 69: page.xv
+[15]
+pdftex: define anchor at line 69: page.xvi
+[16
+
+
+]
+pdftex: define anchor at line 70: section.0.2
+pdftex: define anchor at line 70: listtablename.0
+(./publicacao.lot)
+\tf@lot=\write7
+\openout7 = `publicacao.lot'.
+
+
+pdftex: define anchor at line 70: page.xvii
+[17
+
+
+]
+pdftex: define anchor at line 70: page.xviii
+[18
+
+
+]
+\openout2 = `./docs/abreviaturasesiglas.aux'.
+
+ (./docs/abreviaturasesiglas.tex
+pdftex: define anchor at line 4: section.0.3
+pdftex: define anchor at line 4: nomeabreviaturasesiglas.0
+
+Overfull \hbox (8.0691pt too wide) in paragraph at lines 4--25
+[] 
+ []
+
+pdftex: define anchor at line 25: page.xix
+[19
+
+
+
+]
+pdftex: define anchor at line 25: page.xx
+[20
+
+
+])
+\openout2 = `./docs/simbolos.aux'.
+
+ (./docs/simbolos.tex
+pdftex: define anchor at line 4: section.0.4
+pdftex: define anchor at line 4: listsimbname.0
+pdftex: define anchor at line 9: estilo:simbolos
+pdftex: define anchor at line 25: page.xxi
+[21
+
+
+
+
+]
+pdftex: define anchor at line 25: page.xxii
+[22
+
+
+])
+pdftex: define anchor at line 76: contentsname.0
+(./publicacao.toc)
+\tf@toc=\write8
+\openout8 = `publicacao.toc'.
+
+
+pdftex: define anchor at line 76: page.xxiii
+[23
+
+
+
+]
+pdftex: define anchor at line 76: page.xxiv
+[24
+
+
+]
+\openout2 = `./docs/introducao_corr3.aux'.
+
+ (./docs/introducao_corr3.tex
+pdftex: define anchor at line 3: chapter.1
+Cap\'{\i }tulo 1.
+pdftex: bookmark at 3: {1} {\protect \numberline {\thechapter }INTRODUÇÃO} {cha
+pter.1}{0}{toc}
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 10: page.1
+[1
+
+
+
+
+
+]
+
+LaTeX Warning: Citation `wolf/85' on page 2 undefined on input line 17.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 18: page.2
+[2]
+
+LaTeX Warning: Citation `sousa:2004' on page 3 undefined on input line 21.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 24: page.3
+[3])
+pdftex: define anchor at line 80: page.4
+[4]
+\openout2 = `./docs/dados_analisados_corr2.aux'.
+
+ (./docs/dados_analisados_corr2.tex
+pdftex: define anchor at line 3: chapter.2
+Cap\'{\i }tulo 2.
+pdftex: bookmark at 3: {2} {\protect \numberline {\thechapter }DADOS ANALISADOS
+} {chapter.2}{0}{toc}
+pdftex: define anchor at line 7: section.2.1
+pdftex: bookmark at 7: {2.1} {\ifnum 1>\c@secnumdepth \else \protect \numberlin
+e {\csname thesection\endcsname }\fi A Amazônia} {section.2.1}{1}{toc}
+
+Overfull \vbox (5.14793pt too high) has occurred while \output is active []
+
+
+pdftex: define anchor at line 19: page.5
+[5
+
+
+
+
+]
+pdftex: define anchor at line 25: section.2.2
+pdftex: bookmark at 25: {2.2} {\ifnum 1>\c@secnumdepth \else \protect \numberli
+ne {\csname thesection\endcsname }\fi O projeto LBA} {section.2.2}{1}{toc}
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 32: page.6
+[6]
+pdftex: bookmark at 36: {2.1} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Mapa esquemático com a localização das áreas de pesquisa 
+de campo do projeto LBA.}} {figure.2.1}{0}{lof}
+pdftex: define anchor at line 36: figure.2.1
+pdftex: define anchor at line 36: figure.2.1
+<Figuras/mapalbacorr.png, id=506, 532.99126pt x 514.92375pt>
+File: Figuras/mapalbacorr.png Graphic file (type png)
+
+<use Figuras/mapalbacorr.png>
+pdftex: define anchor at line 47: section.2.3
+pdftex: bookmark at 47: {2.3} {\ifnum 1>\c@secnumdepth \else \protect \numberli
+ne {\csname thesection\endcsname }\fi Sítio experimental e dados} {section.2.3}
+{1}{toc}
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 50: page.7
+[7 <./Figuras/mapalbacorr.png>]
+pdftex: bookmark at 52: {2.2} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Mapa com a localização da campanha realizada pelo Projeto
+ LBA.}} {figure.2.2}{0}{lof}
+pdftex: define anchor at line 52: figure.2.2
+<Figuras/rondonia.pdf, id=516, 618.31pt x 533.995pt>
+File: Figuras/rondonia.pdf Graphic file (type pdf)
+
+<use Figuras/rondonia.pdf>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 64: page.8
+[8 <./Figuras/rondonia.pdf>]
+pdftex: bookmark at 69: {2.3} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Desenho esquemático da torre micrometeorológica do projet
+o LBA.}} {figure.2.3}{0}{lof}
+pdftex: define anchor at line 69: figure.2.3
+<Figuras/torredesenho.pdf, id=536, 134.5025pt x 105.39375pt>
+File: Figuras/torredesenho.pdf Graphic file (type pdf)
+
+<use Figuras/torredesenho.pdf>
+pdftex: bookmark at 81: {2.4} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Torre micrometeorológica de $66$ metros de altura constru
+ída na Reserva Biológica do Jaru (Rebio-Jaru), em Rondônia.}} {figure.2.4}{0}{l
+of}
+pdftex: define anchor at line 81: figure.2.4
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 81.
+pdftex: define anchor at line 81: figure.2.4
+<Figuras/2torres.pdf, id=541, 164.615pt x 146.5475pt>
+File: Figuras/2torres.pdf Graphic file (type pdf)
+
+<use Figuras/2torres.pdf>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 93: page.9
+[9 <./Figuras/torredesenho.pdf>])
+pdftex: define anchor at line 86: page.10
+[10 <./Figuras/2torres.pdf>]
+\openout2 = `./docs/analise_e_resultados_corr7.aux'.
+
+ (./docs/analise_e_resultados_corr7.tex
+pdftex: define anchor at line 3: chapter.3
+Cap\'{\i }tulo 3.
+pdftex: bookmark at 3: {3} {\protect \numberline {\thechapter }ANÁLISE E RESULT
+ADOS} {chapter.3}{0}{toc}
+pdftex: define anchor at line 11: section.3.1
+pdftex: bookmark at 11: {3.1} {\ifnum 1>\c@secnumdepth \else \protect \numberli
+ne {\csname thesection\endcsname }\fi Estacionaridade} {section.3.1}{1}{toc}
+pdftex: bookmark at 18: {3.1} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Análise da estacionaridade para as séries temporais de te
+mperatura e velocidade do vento em diferentes períodos do dia e níveis da copa.
+}} {table.3.1}{0}{lot}
+pdftex: define anchor at line 18: table.3.1
+pdftex: define anchor at line 18: table.3.1
+pdftex: define anchor at line 36: section.3.2
+pdftex: bookmark at 36: {3.2} {\ifnum 1>\c@secnumdepth \else \protect \numberli
+ne {\csname thesection\endcsname }\fi Decomposição dos Dados} {section.3.2}{1}{
+toc}
+
+LaTeX Warning: Reference `figseriestempdiur' on page 11 undefined on input line
+ 40.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 41: page.11
+[11
+
+
+
+
+]
+pdftex: define anchor at line 46: equation.3.1
+pdftex: define anchor at line 46: equation.3.1
+pdftex: define anchor at line 46: equation.3.1
+pdftex: define anchor at line 46: equation.3.1
+pdftex: bookmark at 64: {3.1} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Séries temporal total, coerente e incoerente.}} {figure.3
+.1}{0}{lof}
+pdftex: define anchor at line 64: figure.3.1
+<Figuras2/filtrocoltS0681200.png, id=582, 494.14612pt x 351.41287pt>
+File: Figuras2/filtrocoltS0681200.png Graphic file (type png)
+
+<use Figuras2/filtrocoltS0681200.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 73: page.12
+[12]
+pdftex: define anchor at line 75: section.3.3
+pdftex: bookmark at 75: {3.3} {\ifnum 1>\c@secnumdepth \else \protect \numberli
+ne {\csname thesection\endcsname }\fi Caracterizando a turbulência acima da cop
+a da floresta Amazônica} {section.3.3}{1}{toc}
+pdftex: define anchor at line 79: subsection.3.3.1
+pdftex: bookmark at 79: {3.3.1} {\ifnum 2>\c@secnumdepth \else \protect \number
+line {\csname thesubsection\endcsname }\fi Espectros de potência} {subsection.3
+.3.1}{2}{toc}
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 82: page.13
+[13 <./Figuras2/filtrocoltS0681200.png (PNG copy)>]
+pdftex: bookmark at 84: {3.2} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Espectros de potência das séries temporais total, coerent
+e e incoerente.}} {figure.3.2}{0}{lof}
+pdftex: define anchor at line 84: figure.3.2
+<Figuras2/tS0681200espectro.png, id=597, 462.528pt x 347.79938pt>
+File: Figuras2/tS0681200espectro.png Graphic file (type png)
+
+<use Figuras2/tS0681200espectro.png>
+<Figuras2/ctS0681200espectro.png, id=598, 462.528pt x 347.79938pt>
+File: Figuras2/ctS0681200espectro.png Graphic file (type png)
+
+<use Figuras2/ctS0681200espectro.png>
+<Figuras2/itS0681200espectro.png, id=599, 462.528pt x 347.79938pt>
+File: Figuras2/itS0681200espectro.png Graphic file (type png)
+
+<use Figuras2/itS0681200espectro.png>
+pdftex: define anchor at line 95: subsection.3.3.2
+pdftex: bookmark at 95: {3.3.2} {\ifnum 2>\c@secnumdepth \else \protect \number
+line {\csname thesubsection\endcsname }\fi Intermitência} {subsection.3.3.2}{2}
+{toc}
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 88: page.14
+[14 <./Figuras2/tS0681200espectro.png (PNG copy)> <./Figuras2/ctS0681200espectr
+o.png (PNG copy)> <./Figuras2/itS0681200espectro.png (PNG copy)>]
+pdftex: define anchor at line 88: page.15
+[15]
+\openout2 = `./docs/conclusoes3.aux'.
+
+ (./docs/conclusoes3.tex
+pdftex: define anchor at line 3: page.16
+[16
+
+
+
+
+]
+pdftex: define anchor at line 3: chapter.4
+Cap\'{\i }tulo 4.
+pdftex: bookmark at 3: {4} {\protect \numberline {\thechapter }CONCLUSÕES} {cha
+pter.4}{0}{toc}
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 12: page.17
+[17])
+pdftex: define anchor at line 90: page.18
+[18] (./publicacao.bbl (./publicacao.brf)
+\tf@brf=\write9
+\openout9 = `publicacao.brf'.
+
+
+pdftex: define anchor at line 3: chapter.5
+pdftex: bookmark at 3: {5} {\refname } {chapter.5}{0}{toc}
+pdftex: define anchor at line 13: cite.aguirre/00
+pdftex: define anchor at line 22: cite.NBR6023:2002b
+pdftex: define anchor at line 35: cite.bolzan/00
+pdftex: define anchor at line 45: cite.culf/96
+pdftex: define anchor at line 52: cite.silvadias/05
+pdftex: define anchor at line 58: cite.eckrue/86
+pdftex: define anchor at line 66: cite.farge/01
+pdftex: define anchor at line 73: cite.fisch/98
+pdftex: define anchor at line 79: cite.fraedrich/86
+pdftex: define anchor at line 86: cite.fraedrichandleslie/89
+pdftex: define anchor at line 86: page.19
+[19
+
+
+
+]
+pdftex: define anchor at line 93: cite.gallego/01
+pdftex: define anchor at line 100: cite.goberelnino/92
+pdftex: define anchor at line 106: cite.grass/86
+pdftex: define anchor at line 112: cite.grassproca/83
+pdftex: define anchor at line 119: cite.jaramillo/93
+pdftex: define anchor at line 127: cite.katul/94
+pdftex: define anchor at line 136: cite.iag/05
+pdftex: define anchor at line 145: cite.lba/06
+pdftex: define anchor at line 151: cite.lor/63
+pdftex: define anchor at line 157: cite.loratrat/91
+pdftex: define anchor at line 164: cite.lu/94
+pdftex: define anchor at line 171: cite.nobre/2005
+pdftex: define anchor at line 171: page.20
+[20]
+pdftex: define anchor at line 178: cite.malik/92
+pdftex: define anchor at line 188: cite.mauri:2003
+pdftex: define anchor at line 194: cite.nicolis/84
+pdftex: define anchor at line 201: cite.oliver/02
+pdftex: define anchor at line 208: cite.Ramos/04
+pdftex: define anchor at line 214: cite.ruelleentrop/89
+pdftex: define anchor at line 220: cite.ruelle/91
+pdftex: define anchor at line 227: cite.ruelltak/71
+pdftex: define anchor at line 234: cite.sanosawada/85
+pdftex: define anchor at line 244: cite.edtese/99
+pdftex: define anchor at line 250: cite.sreenivasan/99
+pdftex: define anchor at line 259: cite.tiong/93
+pdftex: define anchor at line 259: page.21
+[21]
+pdftex: define anchor at line 266: cite.weber/95
+pdftex: define anchor at line 273: cite.xin/01
+)
+pdftex: define anchor at line 105: page.22
+[22]
+\openout2 = `./docs/apendice1.aux'.
+
+ (./docs/apendice1.tex
+pdftex: define anchor at line 3: estilo:apendice1
+pdftex: define anchor at line 7: appendix.A
+AP\^ENDICE .
+pdftex: bookmark at 7: {} {\protect \numberline {\thechapter }APÊNDICE A - AUTO
+RIZAÇÃO PARA PUBLICAÇÃO} {appendix.A}{0}{toc}
+pdftex: define anchor at line 13: section.A.1
+pdftex: bookmark at 13: {A.1} {\ifnum 1>\c@secnumdepth \else \protect \numberli
+ne {\csname thesection\endcsname }\fi Autorização para Publicação de Trabalho A
+cadêmico - INPE-393} {section.A.1}{1}{toc}
+pdftex: bookmark at 18: {A.1} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Formulário Autorização para Publicação de Trabalho Acadêm
+ico INPE-393.}} {figure.A.1}{0}{lof}
+pdftex: define anchor at line 18: figure.A.1
+<./Figuras/form393.png, id=716, 688.5725pt x 972.63374pt>
+File: ./Figuras/form393.png Graphic file (type png)
+
+<use ./Figuras/form393.png>
+pdftex: define anchor at line 26: subsection.A.1.1
+pdftex: bookmark at 26: {A.1.1} {\ifnum 2>\c@secnumdepth \else \protect \number
+line {\csname thesubsection\endcsname }\fi Instruções do Formulário INPE-393} {
+subsection.A.1.1}{2}{toc}
+pdftex: define anchor at line 30: Item.1
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 31: page.23
+[23
+
+
+
+
+
+ <./Figuras/form393.png (PNG copy)>]
+pdftex: define anchor at line 32: Item.2
+pdftex: define anchor at line 34: Item.3
+pdftex: define anchor at line 36: Item.4
+pdftex: define anchor at line 38: Item.5
+pdftex: define anchor at line 40: Item.6
+pdftex: define anchor at line 42: Item.7
+pdftex: define anchor at line 44: Item.8
+pdftex: define anchor at line 46: Item.9
+pdftex: define anchor at line 49: Item.10
+pdftex: define anchor at line 51: Item.11
+pdftex: define anchor at line 53: Item.12
+pdftex: define anchor at line 55: Item.13
+pdftex: define anchor at line 57: Item.14
+pdftex: define anchor at line 61: section.A.2
+pdftex: bookmark at 61: {A.2} {\ifnum 1>\c@secnumdepth \else \protect \numberli
+ne {\csname thesection\endcsname }\fi Autorização para Publicação - INPE-106} {
+section.A.2}{1}{toc}
+pdftex: bookmark at 63: {A.2} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Formulário Autorização para Publicação de Trabalho Acadêm
+ico INPE-106 folha 1.}} {figure.A.2}{0}{lof}
+pdftex: define anchor at line 63: figure.A.2
+pdftex: define anchor at line 63: figure.A.2
+<./Figuras/form106.png, id=723, 602.25pt x 850.17625pt>
+File: ./Figuras/form106.png Graphic file (type png)
+
+<use ./Figuras/form106.png>
+pdftex: define anchor at line 68: page.24
+[24]
+pdftex: bookmark at 71: {A.3} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Formulário Autorização para Publicação de Trabalho Acadêm
+ico INPE-106 folha 2.}} {figure.A.3}{0}{lof}
+pdftex: define anchor at line 71: figure.A.3
+pdftex: define anchor at line 71: figure.A.3
+<./Figuras/form106folha2.png, id=742, 599.23875pt x 850.17625pt>
+File: ./Figuras/form106folha2.png Graphic file (type png)
+
+<use ./Figuras/form106folha2.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+pdftex: define anchor at line 78: page.25
+[25 <./Figuras/form106.png (PNG copy)>]
+pdftex: define anchor at line 78: page.26
+[26 <./Figuras/form106folha2.png (PNG copy)>]
+pdftex: define anchor at line 79: subsection.A.2.1
+pdftex: bookmark at 79: {A.2.1} {\ifnum 2>\c@secnumdepth \else \protect \number
+line {\csname thesubsection\endcsname }\fi Instruções do Formulário INPE-106} {
+subsection.A.2.1}{2}{toc}
+pdftex: define anchor at line 85: Item.15
+pdftex: define anchor at line 87: Item.16
+pdftex: define anchor at line 89: Item.17
+pdftex: define anchor at line 91: Item.18
+pdftex: define anchor at line 93: Item.19
+pdftex: define anchor at line 95: Item.20
+pdftex: define anchor at line 97: Item.21
+pdftex: define anchor at line 100: Item.22
+pdftex: define anchor at line 101: Item.23
+pdftex: define anchor at line 102: Item.24
+pdftex: define anchor at line 103: Item.25
+pdftex: define anchor at line 104: Item.26
+pdftex: define anchor at line 105: Item.27
+pdftex: define anchor at line 108: Item.28
+pdftex: define anchor at line 110: Item.29
+pdftex: define anchor at line 112: Item.30
+pdftex: define anchor at line 114: Item.31
+pdftex: define anchor at line 115: page.27
+[27
+
+]
+pdftex: define anchor at line 116: Item.32
+pdftex: define anchor at line 118: Item.33
+pdftex: define anchor at line 120: Item.34
+)
+pdftex: define anchor at line 106: page.28
+[28]
+\openout2 = `./docs/anexo.aux'.
+
+ (./docs/anexo.tex
+pdftex: define anchor at line 6: anexo.a
+AP\^ENDICE .
+pdftex: bookmark at 6: {} {\protect \numberline {\thechapter }ANEXO A - ABREVIA
+TURA DOS MESES} {anexo.a}{0}{toc}
+pdftex: define anchor at line 47: anexo.a
+)
+pdftex: define anchor at line 110: page.29
+[29
+
+
+
+
+
+
+]
+\openout2 = `./docs/anexo1.aux'.
+
+ (./docs/anexo1.tex
+pdftex: define anchor at line 7: page.30
+[30
+
+
+
+
+]
+pdftex: define anchor at line 7: anexo.b
+AP\^ENDICE .
+pdftex: bookmark at 7: {} {\protect \numberline {\thechapter }ANEXO B - EXEMPLO
+S DE FIGURAS E TABELAS NO \LaTeX } {anexo.b}{0}{toc}
+pdftex: define anchor at line 11: section.b.1
+pdftex: bookmark at 11: {B.1} {\ifnum 1>\c@secnumdepth \else \protect \numberli
+ne {\csname thesection\endcsname }\fi Figuras} {section.b.1}{1}{toc}
+pdftex: bookmark at 15: {B.1} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Exemplo de figura com título curto.}} {figure.b.1}{0}{lof
+}
+pdftex: define anchor at line 15: figure.b.1
+<./Figuras2/gpa.pdf, id=793, 331.2375pt x 132.495pt>
+File: ./Figuras2/gpa.pdf Graphic file (type pdf)
+ <use ./Figuras2/gpa.pdf>
+pdftex: bookmark at 28: {B.2} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Figura com título que ocupa mais de uma linha, alinhar as
+ demais com a primeira letra depois do hífen.}} {figure.b.2}{0}{lof}
+pdftex: define anchor at line 28: figure.b.2
+pdftex: define anchor at line 28: figure.b.2
+File: ./Figuras2/gpa.pdf Graphic file (type pdf)
+<use ./Figuras2/gpa.pdf>
+pdftex: define anchor at line 44: page.31
+[31 <./Figuras2/gpa.pdf>]
+pdftex: define anchor at line 45: section.b.2
+pdftex: bookmark at 45: {B.2} {\ifnum 1>\c@secnumdepth \else \protect \numberli
+ne {\csname thesection\endcsname }\fi Tabelas} {section.b.2}{1}{toc}
+pdftex: bookmark at 51: {B.1} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Exemplo de tabela, com fonte.}} {table.b.1}{0}{lot}
+pdftex: define anchor at line 51: table.b.1
+pdftex: define anchor at line 60: table.b.1
+pdftex: bookmark at 75: {B.2} {\protect \numberline {\csname the\@captype \endc
+sname }{\ignorespaces Exemplo de tabela, com fonte longa}} {table.b.2}{0}{lot}
+pdftex: define anchor at line 75: table.b.2
+pdftex: define anchor at line 97: table.b.2
+pdftex: bookmark at 103: {B.3} {\protect \numberline {\csname the\@captype \end
+csname }{\ignorespaces Outro exemplo de tabela}} {table.b.3}{0}{lot}
+pdftex: define anchor at line 103: table.b.3
+
+Overfull \hbox (6.60606pt too wide) in paragraph at lines 116--116
+ []|\T1/lmr/m/n/10.95 Cameraman 
+ []
+
+
+Overfull \hbox (6.60606pt too wide) in paragraph at lines 120--120
+ []|\T1/lmr/m/n/10.95 Cameraman 
+ []
+
+pdftex: bookmark at 133: {B.4} {\protect \numberline {\csname the\@captype \end
+csname }{\ignorespaces Mais um exemplo de tabela}} {table.b.4}{0}{lot}
+pdftex: define anchor at line 133: table.b.4
+
+Overfull \hbox (1.5304pt too wide) in paragraph at lines 140--140
+ []|\T1/lmr/m/n/10.95 Leveling's 
+ []
+
+pdftex: bookmark at 157: {B.5} {\protect \numberline {\thetable }{Exemplo de ta
+bela longa que atravessa várias páginas.}} {table.b.5}{0}{lot}
+pdftex: define anchor at line 194: page.32
+[32
+
+]
+pdftex: define anchor at line 194: table.b.5
+pdftex: define anchor at line 234: page.33
+[33]
+pdftex: define anchor at line 248: page.34
+[34]
+pdftex: define anchor at line 259: page.35
+[35]
+pdftex: bookmark at 261: {B.6} {\protect \numberline {\thetable }{Exemplo de ta
+bela longa, em paisagem, que atravessa várias páginas.}} {table.b.6}{0}{lot}
+pdftex: define anchor at line 296: table.b.6
+pdftex: define anchor at line 305: page.36
+[36
+
+]
+pdftex: define anchor at line 311: page.37
+[37])
+\openout2 = `./docs/anexo2.aux'.
+
+ (./docs/anexo2.tex
+pdftex: define anchor at line 6: page.38
+[38
+
+
+
+
+
+]
+pdftex: define anchor at line 6: anexo.c
+AP\^ENDICE .
+pdftex: bookmark at 6: {} {\protect \numberline {\thechapter }ANEXO C - TIPOS D
+E REFERÊNCIAS NO \LaTeX } {anexo.c}{0}{toc}
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.39
+[39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.40
+[40]
+Overfull \hbox (5.45886pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 title = {Projeto Leste do Tocantins/Oeste do Rio S{\~a}o Fr
+ancisco},[] 
+ []
+
+
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 Departamento Nacional de Produ{\c{c}}{\~a}o Mineral (DNPM)/
+(PROSPEC)},[] 
+ []
+
+
+Overfull \hbox (11.63387pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 title = {Restaura{\c{c}}{\~a}o de imagens do sat{\'e}lite L
+andsat-7},[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.41
+[41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.42
+[42]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.43
+[43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.44
+[44]
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 title = {Variability of {S}outh {A}merican convective cloud
+ systems and[] 
+ []
+
+
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 author = {A. R. Formaggio and J. C. N. Epiphanio and M. D. 
+Sim{\~o}es},[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.45
+[45]
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 url = {http://isi3.isiknowledge.com/portal.cgi?DestApp=WOS&
+Func=Frame},[] 
+ []
+
+
+Overfull \hbox (5.45886pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 title = {Manual para normaliza{\c{c}}{\~a}o de publica{\c{c
+}}{\~o}es[] 
+ []
+
+
+Overfull \hbox (5.45886pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 author = {Fran{\c{c}a} J\'unia Lessa  and  Vasconcellos Ana
+ Cristina[] 
+ []
+
+
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 title = {Atlas dos remanescentes florestais da {M}ata {A}tl
+{\^a}ntica;[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.46
+[46]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.47
+[47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.48
+[48]
+Overfull \hbox (11.63387pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 note = {Cachoeira Paulista, 2000. 1 imagem de sat{\'e}lite.
+ CBERS 2 /[] 
+ []
+
+
+Overfull \hbox (17.80186pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 Sensor  CCD. 30 jan. 2004. Base 153 / Ponto: 126, Composi{\
+c{c}}{\~a}o[] 
+ []
+
+
+Overfull \hbox (36.33388pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 organization = {Instituto Nacional de Pesquisas Espaciais. 
+Divis{\~a}o de[] 
+ []
+
+
+Overfull \hbox (11.63387pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 note = {Cachoeira Paulista, 2000. 1 imagem de sat{\'e}lite.
+ CBERS 1 /[] 
+ []
+
+
+Overfull \hbox (36.33388pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 title = {Brocas para uso odontol{\'o}gico ou uso correlato 
+de desgaste ou[] 
+ []
+
+
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 perfura{\c{c}}{\~a}o revestidas com diamante obtido com as 
+t{\'e}cnicas[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.49
+[49]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.50
+[50]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.51
+[51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.52
+[52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.53
+[53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.54
+[54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.55
+[55]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.56
+[56]
+Overfull \hbox (36.33388pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 subtitle = {Prepara{\c{c}}{\~a}o de {\'i}ndice de publica{\
+c{c}}{\~o}es},[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.57
+[57]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.58
+[58]
+Overfull \hbox (11.63387pt too wide) in paragraph at lines 1171--1171
+[]   \T1/lmtt/m/n/12 de tripula{\c{c}}{\~o}es de um sistema de transporte p{\'u
+}blico via[] 
+ []
+
+
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 1171--1171
+[]   \T1/lmtt/m/n/12 organization = {Departamento de Ci{\^e}ncia da Computa{\c{
+c}}{\~a}o{-}[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.59
+[59]
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 note = {tabela de par{\^a}metros dendrom{\'e}tricos para es
+timativa de[] 
+ []
+
+
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 title = {Trajet{\'o}rias espaciais e manobras assistidas po
+r gravidade},[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.60
+[60]
+Overfull \hbox (11.63387pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 subtitle = {geologia, geomorfologia, pedologia, vegeta{\c{c
+}}{\~a}o e[] 
+ []
+
+
+Overfull \hbox (5.45886pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 note = {Resumo em \textbf{Abstracts in Tropical Agriculture
+}, v. 20,[] 
+ []
+
+
+Overfull \hbox (11.63387pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 title = {Silicon transistor for 200-watt quasi-complementar
+y symmetry[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.61
+[61]
+Overfull \hbox (5.45886pt too wide) in paragraph at lines 1171--1171
+[]\T1/lmtt/m/n/12 topogr{\'a}ficas {-}um estudo de caso Maci{\c{c}}o da Tijuca,
+ vertente[] 
+ []
+
+
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 title = {Autoriza{\c{c}}{\~a}o para c{\'o}pia de publica{\c
+{c}}{\~a}o},[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.62
+[62]
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 note = {[mensagem pessoal].Mensagem recebida por \url{pubtc
+@sid.inpe.br}[] 
+ []
+
+
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 author = {Yosio Edemir Shimabukuro and Tomoaki Miura and Al
+fredo Huete[] 
+ []
+
+
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 sobre a {F}loresta {N}acional de {T}apaj{\'o}s no estado do
+ {P}ar{\'a}},[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.63
+[63]
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 Alfredo Huete and  Egidio Arai and Fernando Del Bon Esp{\'i
+}rito-Santo[] 
+ []
+
+
+Overfull \hbox (42.50888pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 sobre a   {F}loresta {N}acional de {T}apaj{\'o}s no estado 
+do {P}ar{\'a}},[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.64
+[64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.65
+[65]
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 author = {SOUSA, F.L. and RAMOS, F.M. and GALSKI, R.L. and 
+MURAOKA, I.},[] 
+ []
+
+
+Overfull \hbox (246.28398pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 title = {Generalized extremal optimization: a new meta-heur
+istic inspired by a model of natural evolution},[] 
+ []
+
+
+Overfull \hbox (11.63387pt too wide) in paragraph at lines 1171--1171
+[]  \T1/lmtt/m/n/12 booktitle = {Recent developments in biologically inspired c
+omputing},[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.66
+[66]
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 1171--1171
+[] \T1/lmtt/m/n/12 title = { Sistemas de Mesoescala e previs{\~a}o de tempo a c
+urto prazo},[] 
+ []
+
+
+Overfull \hbox (11.63387pt too wide) in paragraph at lines 1171--1171
+[] \T1/lmtt/m/n/12 title = {New Evidence For a Relation Between Wind Stress and
+  Wave age[] 
+ []
+
+
+Overfull \hbox (98.08391pt too wide) in paragraph at lines 1171--1171
+[] \T1/lmtt/m/n/12 transi{\c{c}}{\~a}o da  esta{\c{c}}{\~a}o seca para chuvosa 
+na {A}maz\^onia (2002)},[] 
+ []
+
+
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 1171--1171
+[] \T1/lmtt/m/n/12 subtitle = {{C}omparação {F}loresta/{P}astagem ({DRY TO WET 
+AMC}/{LBA})},[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.67
+[67]
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 1171--1171
+[]\T1/lmtt/m/n/12 %Este é um exemplo de capítulo de livro, onde foi adicionado 
+o campo nota,[] 
+ []
+
+
+Overfull \hbox (5.45886pt too wide) in paragraph at lines 1171--1171
+[] \T1/lmtt/m/n/12 title = {Secular evolution of disc galaxies and of their com
+ponents},[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.68
+[68]
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 1171--1171
+[] \T1/lmtt/m/n/12 title = {Sensibilidade do uso de "Pseudo-temps" na  assimila
+{\c{c}}{\~a}o[] 
+ []
+
+
+Overfull \hbox (79.5589pt too wide) in paragraph at lines 1171--1171
+[] \T1/lmtt/m/n/12 de dados do modelo de  circula{\c{c}}{\~a}o geral atmosf{\'e
+}rica do CPTEC/COLA},[] 
+ []
+
+
+Overfull \hbox (91.9089pt too wide) in paragraph at lines 1171--1171
+[] \T1/lmtt/m/n/12 author = {A. Chedin and S. Serrar and N.A. Scott and C. Crev
+oisier and R. Armante},[] 
+ []
+
+
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 1171--1171
+[] \T1/lmtt/m/n/12 subtitle = {the physical science basis. contribution of work
+ing group I[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdftex: define anchor at line 1171: page.69
+[69])
+pdftex: define anchor at line 112: page.70
+[70] (./publicacao.ind)
+\openout2 = `./docs/contracapa.aux'.
+
+ (./docs/contracapa.tex
+Underfull \hbox (badness 1365) in paragraph at lines 44--44
+\T1/lmr/m/n/12 pes-qui-sas tanto de na-tu-reza téc-nica
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 44--44
+[]|\T1/lmr/m/n/12 São pro-pos-tas de pro-je-tos técnico-
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 44--44
+\T1/lmr/m/n/12 di-gos, ex-pres-sos em uma lin-gua-gem
+ []
+
+)
+pdftex: define anchor at line 115: page.71
+[71] AED: lastpage setting LastPage 
+(./publicacao.aux (./docs/epigrafe.aux) (./docs/dedicatoria.aux)
+(./docs/agradecimentos.aux) (./docs/resumo.aux) (./docs/abstract.aux)
+(./docs/abreviaturasesiglas.aux) (./docs/simbolos.aux)
+(./docs/introducao_corr3.aux) (./docs/dados_analisados_corr2.aux)
+(./docs/analise_e_resultados_corr7.aux) (./docs/conclusoes3.aux)
+(./docs/apendice1.aux) (./docs/anexo.aux) (./docs/anexo1.aux)
+(./docs/anexo2.aux) (./docs/contracapa.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8213 strings out of 256216
+ 113065 string characters out of 1917071
+ 226310 words of memory out of 1500000
+ 10894 multiletter control sequences out of 10000+200000
+ 89217 words of font info for 70 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 43i,11n,40p,1655b,496s stack positions out of 5000i,500n,6000p,200000b,15000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/l
+m/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmbx8.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi
+10.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.p
+fb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmmi6.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></us
+r/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/t
+exmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
+i10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmro12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.p
+fb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmtt12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb>
+Output written on publicacao.pdf (97 pages, 2680849 bytes).
+PDF statistics:
+ 1108 PDF objects out of 1200 (max. 8388607)
+ 234 named destinations out of 1000 (max. 131072)
+ 403 words of extra memory for PDF output out of 10000 (max. 10000000)
+

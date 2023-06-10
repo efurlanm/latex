@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: /mnt/dados1/URLib16c/col/sid.inpe.br/iris@1905/2005/08.25.14.01/doc/publicacao.aux
+A level-1 auxiliary file: ./docs/epigrafe.aux
+A level-1 auxiliary file: ./docs/dedicatoria.aux
+A level-1 auxiliary file: ./docs/agradecimentos.aux
+A level-1 auxiliary file: ./docs/resumo.aux
+A level-1 auxiliary file: ./docs/abstract.aux
+A level-1 auxiliary file: ./docs/abreviaturasesiglas.aux
+A level-1 auxiliary file: ./docs/simbolos.aux
+A level-1 auxiliary file: ./docs/introducao_corr3.aux
+A level-1 auxiliary file: ./docs/dados_analisados_corr2.aux
+A level-1 auxiliary file: ./docs/analise_e_resultados_corr7.aux
+A level-1 auxiliary file: ./docs/conclusoes3.aux
+A level-1 auxiliary file: ./docs/apendice1.aux
+A level-1 auxiliary file: ./docs/anexo.aux
+A level-1 auxiliary file: ./docs/anexo1.aux
+A level-1 auxiliary file: ./docs/anexo2.aux
+A level-1 auxiliary file: ./docs/contracapa.aux
+The style file: abnt-alf.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: abnt-options.bib
+Database file #2: ./bib/referencia.bib
+Warning--I didn't find a database entry for "wolf/85"
+Warning--I didn't find a database entry for "sousa:2004"
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--opção abnt-show-options passou para warn
+Warning--opção abnt-verbatim-entry passou para no
+Warning--opção abnt-url-package passou para url
++---------------------------------------------------------+
+| Estilo bibliográfico abnt-alf.bst versão 1.45.2.1           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+You've used 44 entries,
+            6478 wiz_defined-function locations,
+            1448 strings with 15701 characters,
+and the built_in function-call counts, 32753 in all, are:
+= -- 2514
+> -- 1035
+< -- 101
++ -- 433
+- -- 306
+* -- 2334
+:= -- 4217
+add.period$ -- 129
+call.type$ -- 45
+change.case$ -- 400
+chr.to.int$ -- 124
+cite$ -- 36
+duplicate$ -- 1784
+empty$ -- 2553
+format.name$ -- 1507
+if$ -- 7968
+int.to.chr$ -- 7
+int.to.str$ -- 3
+missing$ -- 728
+newline$ -- 225
+num.names$ -- 167
+pop$ -- 863
+preamble$ -- 1
+purify$ -- 164
+quote$ -- 0
+skip$ -- 1891
+stack$ -- 1
+substring$ -- 1426
+swap$ -- 844
+text.length$ -- 73
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 10
+warning$ -- 3
+while$ -- 256
+width$ -- 0
+write$ -- 605
+(There were 5 warnings)
